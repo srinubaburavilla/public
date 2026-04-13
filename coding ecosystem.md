@@ -1,0 +1,145 @@
+- SOLID principles (SRP, OCP, LSP, ISP, DIP)
+- Best practices (readability, naming, DRY, KISS, separation of concerns)
+- Design & architecture (modularity, coupling/cohesion, abstraction, patterns)
+- Error handling & robustness (edge cases, validation, exceptions)
+- Performance (efficiency, scalability)
+- Testability (unit testing, dependency injection, mocking)
+- Security (input handling, vulnerabilities)
+- Maintainability – Code clarity, documentation, long-term ease of modification
+- Scalability – Handling growth in users, data, or features
+- Extensibility – Ease of adding new features
+- Consistency – Uniform style and patterns
+- Dependencies & Configuration – Proper dependency management
+- Logging & Observability – Debugging and monitoring support
+- Concurrency & State Management – Async/thread safety and state correctness
+- Standards & Conventions – Language/framework adherence
+- Modularity – Independent reusable components
+- Cohesion – Related responsibilities grouped properly
+- Coupling – Low dependency between modules
+- Abstraction – Proper hiding of implementation details
+- Code Duplication – Avoid repeated logic
+- Input Validation – Proper validation of inputs
+- Error Propagation – Clear error flow
+- Performance Efficiency – Efficient resource usage
+- Security Practices – Secure coding practices
+- Readability – Easy to understand code
+- Reusability – Components reused effectively
+- Single Responsibility – One clear responsibility per unit
+- Interface Design – Clean and usable APIs
+- Data Flow – Clear flow of data
+- Side Effects – Minimized unexpected changes
+- Immutability – Use immutable structures where appropriate
+- Initialization Safety – Safe object initialization
+- Resource Management – Proper cleanup of resources
+- Dependency Direction – High-level not dependent on low-level details
+- Flexibility – Ease of adapting changes
+- Encapsulation – Hidden internal state
+- Separation of Concerns – Proper separation of logic
+- Business Logic Isolation – Independent domain logic
+- Framework Dependency – Minimal framework coupling
+- Configuration Management – Safe config handling
+- Defensive Coding – Handling invalid states safely
+- Backward Compatibility – No breaking existing usage
+- Refactoring Readiness – Easy to restructure
+- Debuggability – Easy debugging
+- Complexity Management – Avoid unnecessary complexity
+- Control Flow Clarity – Simple execution flow
+- State Predictability – Predictable state transitions
+- Dependency Injection Usage – Proper DI usage
+- Contract Clarity – Clear module contracts
+- Versioning Strategy – Safe API evolution
+- Code Smells – Absence of anti-patterns
+- Init vs Execution Separation – Clear separation
+- Fail-Fast Behavior – Early failure detection
+- Transaction Safety – Safe multi-step operations
+- Atomic Operations – All-or-nothing execution
+- Idempotency – Safe repeated execution
+- Concurrency Safety – Safe parallel execution
+- Thread Management – Proper thread handling
+- Resource Contention – No resource conflicts
+- Latency Awareness – Response time consideration
+- Throughput Efficiency – High workload handling
+- Caching Strategy – Effective caching
+- Data Integrity – Correct and consistent data
+- Schema Design – Proper data modeling
+- Migration Strategy – Safe schema evolution
+- API Consistency – Uniform API behavior
+- Naming Semantics – Meaningful naming
+- Code Organization – Logical structure
+- Layer Separation – Clean architecture layers
+- Build Simplicity – Simple build process
+- Deployment Safety – Safe deployments
+- Environment Parity – Consistent environments
+- Feature Toggle Usage – Controlled feature rollout
+- Observability Hooks – Tracing and metrics support
+- System Resilience – Recovery from failures
+- Fault Tolerance – Continue despite errors
+- Retry Strategy – Safe retry mechanisms
+- Timeout Handling – Proper timeout usage
+- Deadlock Prevention – Avoid deadlocks
+- Graceful Degradation – Partial functionality on failure
+- Scalability Boundaries – Known system limits
+- Data Validation Layers – Proper validation placement
+- Authorization Checks – Access control enforcement
+- Authentication Flow – Secure identity validation
+- Auditability – Trackable system actions
+- Logging Granularity – Useful log detail level
+- Error Message Quality – Clear and safe errors
+- Localization Readiness – Multi-language support
+- Time & Date Handling – Correct time handling
+- Memory Efficiency – No memory leaks
+- CPU Efficiency – Efficient computation
+- Network Efficiency – Optimized network usage
+- Batch Processing Design – Efficient bulk processing
+- Data Consistency Models – Correct consistency tradeoffs
+- Domain Modeling Quality – Accurate business representation
+- Validation Consistency – Uniform validation rules
+- State Transition Safety – Safe state changes
+- Event Handling Design – Clean event-driven design
+- Message Contract Stability – Stable communication contracts
+- Error Recovery Strategy – Defined recovery flow
+- Configuration Validation – Safe config usage
+- Startup Reliability – Stable initialization
+- Shutdown Safety – Safe shutdown process
+- Parallel Execution Design – Proper concurrency design
+- System Boundaries – Clear system separation
+- Cross-Cutting Concerns – Shared logic handling
+- Middleware Design – Proper middleware usage
+- Plugin Architecture – Extensible plugins
+- Service Decoupling – Independent services
+- Domain Separation – Bounded contexts
+- API Versioning Strategy – Non-breaking evolution
+- Schema Evolution Safety – Safe data evolution
+- Backpressure Handling – Load management
+- Resource Pooling – Efficient resource reuse
+- Circuit Breaker Pattern – Failure isolation
+- Bulkhead Isolation – Prevent failure propagation
+- Eventual Consistency Handling – Async consistency design
+- Distributed Tracing – Request tracing across services
+- Service Discovery – Dynamic service lookup
+- Load Balancing Strategy – Even traffic distribution
+- Rate Limiting – Request control
+- API Throttling – Usage limitation
+- Data Partitioning Strategy – Data splitting approach
+- Sharding Design – Horizontal scaling strategy
+- Consistency vs Availability Trade-offs – CAP handling
+- Schema Normalization – Proper relational structure
+- Index Strategy – Efficient indexing
+- Query Efficiency – Optimized queries
+- Transaction Boundaries – Correct transaction scope
+- Dead Data Cleanup – Remove stale data
+- Data Lifecycle Management – Full lifecycle control
+- Backup Strategy – Reliable backups
+- Disaster Recovery Readiness – System recovery ability
+- High Availability Design – Minimal downtime
+- Fault Isolation – Prevent cascading failures
+- System Observability Coverage – Full visibility
+- Metrics Quality – Useful system metrics
+- Alerting Strategy – Meaningful alerts
+- Incident Response Readiness – Production issue handling
+- Runbook Availability – Operational guides
+- Operational Simplicity – Easy system operation
+- Release Automation – Automated deployments
+- CI/CD Pipeline Quality – Reliable pipelines
+- Rollback Strategy – Safe rollback mechanism
+- Change Impact Scope – Minimized blast radius
