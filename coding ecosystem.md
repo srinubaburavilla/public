@@ -143,4 +143,3 @@
 143. CI/CD Pipeline Quality - Reliable pipelines
 144. Rollback Strategy - Safe rollback mechanism
 145. Change Impact Scope - Minimized blast radius
-<img width="65" height="2901" alt="image" src="https://github.com/user-attachments/assets/3ef72f48-df56-4be4-bb82-4e246b7ea25a" />
